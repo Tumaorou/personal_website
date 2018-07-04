@@ -5,7 +5,7 @@
 ## 一、策划
 ### 产品文档丶思维导图与网站地图
 * [产品文档](https://github.com/Tumaorou/personal_website/blob/master/file/%E6%96%87%E4%BC%A0%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E7%BD%91%E9%A1%B5%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3.docx)
-* 思维导图 使用[百度脑图](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/思维导图.png)
+* [思维导图](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/思维导图.png)
 * 网站地图 使用[XML 站点地图索引](https://reganmian.me/sitemap.xml)
 
 ## 二、管理
