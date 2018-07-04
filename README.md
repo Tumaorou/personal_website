@@ -13,14 +13,14 @@
 * 文章vs页面 
   * 14篇文章 3个页面
 * 标签与分类
-  * 8个分类目录，16个标签。每篇文章至少包含在一个分类目录下并拥有一个标签。分类参考了用户研究的类别和一些实际操作的案例，标签亦是如此。
+  * 8个分类目录，17个标签。每篇文章至少包含在一个分类目录下并拥有一个标签。分类参考了用户研究的类别和一些实际操作的案例，标签亦是如此。
 ### 2、Wordpress界面设计
 * 选单与侧边栏
   * 主页菜单分为5个一级菜单，部分菜单下拥有二级菜单，二级菜单个数不超过7个。主页菜单经过多次修改，参考了网上优秀的个人网站及教学网站，最终定下。
 * 主页互动性
   * 主页有搜索框，可进行网站留言，所有文章皆可评论。页面下方可进行登录操作。
 * 小工具
-  * Site Origin，MetaSlider等。首页使用Site Origin布局，因为制作幻灯片的原因所以另装了MetaSlider插件。参考了一些网站，决定用静态页面替换主题默认的最新文章做主页。
+  * `Site Origin`，`MetaSlider`等。首页使用`Site Origin`布局，因为制作幻灯片的原因所以另装了`MetaSlider`插件。参考了一些网站，决定用静态页面替换主题默认的最新文章做主页。
 ### 3、Wordpress平面设计
 * 图库与配色
   * 网站中出现的图片来源分两类，一是出自转载的网络文章，这一类图片均已在所属文章底部标识来源。二是来源于网站[pixabay](https://pixabay.com/)有CC0标识的图片。本网站从建设初就严格把控图片来源，需要署名的均已署名。
@@ -30,7 +30,7 @@
 
 ## 三、运营
 ### 1、云端架站
-* 已安装Wordfence插件，通过此插件了解自己密码不安全并修改过。已进行ssl加密[ssl证书截图](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/ssl证书.PNG)
+* 已安装`Wordfence`插件，通过此插件了解自己密码不安全并修改过。已进行ssl加密[ssl证书截图](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/ssl证书.PNG)
 * 已开启多站点，https://reganmian.me/site2/
 * 网站读取速度较快，谷歌浏览器读取速度截图![读取速度](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E8%AF%BB%E5%8F%96%E9%80%9F%E5%BA%A6.PNG)
 ### 2、用研
@@ -39,4 +39,4 @@
 ### 3、站长工具
 * 百度站长工具
 * 必应站长工具
-* 已装Jetpack，Yoast插件并使用
+* 已装Jetpack，Yoast插件并使用，文章均设置了SEO关键词
