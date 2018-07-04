@@ -4,7 +4,7 @@
 ------
 ## 一、策划
 ### 产品文档丶思维导图与网站地图
-* 产品文档
+* [产品文档](https://github.com/Tumaorou/personal_website/blob/master/file/%E6%96%87%E4%BC%A0%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E7%BD%91%E9%A1%B5%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3.docx)
 * 思维导图 使用[百度脑图](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/思维导图.png)
 * 网站地图 使用[XML 站点地图索引](https://reganmian.me/sitemap.xml)
 
@@ -27,7 +27,8 @@
 * 已开启多站点，https://reganmian.me/site2/
 * 网站读取速度较快，谷歌浏览器读取速度截图![读取速度](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E8%AF%BB%E5%8F%96%E9%80%9F%E5%BA%A6.PNG)
 ### 2、用研
-
+* [用户访谈](https://github.com/Tumaorou/personal_website/blob/master/file/%E7%94%A8%E6%88%B7%E8%AE%BF%E8%B0%88.md)
+* [焦点小组](https://github.com/Tumaorou/personal_website/blob/master/file/%E7%84%A6%E7%82%B9%E5%B0%8F%E7%BB%84.md)
 ### 3、站长工具
 * 百度站长工具
 * 必应站长工具
