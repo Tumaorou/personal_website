@@ -32,7 +32,7 @@
 ### 1、云端架站
 * 已安装`Wordfence`插件，通过此插件了解自己密码不安全并修改过。已进行ssl加密[ssl证书截图](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/ssl证书.PNG)
 * 已开启多站点，https://reganmian.me/site2/
-* 网站读取速度较快，谷歌浏览器读取速度截图![读取速度](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E8%AF%BB%E5%8F%96%E9%80%9F%E5%BA%A6.PNG)
+* 在效能测试网站http://ping.chinaz.com/ 进行测试，共在全世界测试149个节点，因为服务器架在国外，所以国内的ping值普遍比国外低，[ping值测试部分结果]()
 ### 2、用研
 * [用户访谈](https://github.com/Tumaorou/personal_website/blob/master/file/%E7%94%A8%E6%88%B7%E8%AE%BF%E8%B0%88.md)
 * [焦点小组](https://github.com/Tumaorou/personal_website/blob/master/file/%E7%84%A6%E7%82%B9%E5%B0%8F%E7%BB%84.md)
