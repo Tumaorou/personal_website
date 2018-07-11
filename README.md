@@ -55,4 +55,6 @@
 
 	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2%E8%AF%8D%E6%9D%A1.PNG" alt="必应搜索" width="50%" height="50%"></img>
 
-* 已装`Jetpack`，`Yoast`插件并使用，根据SEO改进提示，给文章均增加关键词
+* 已装`Jetpack`，`Yoast`插件并使用，根据SEO改进提示，给文章均增加关键词。排除SEO问题。
+
+	<img src="https://github.com/Tumaorou/personal_website/blob/master/picture/SEO%E9%97%AE%E9%A2%98.png" alt="SEO问题" width="40%" height="40%"></img>
