@@ -60,4 +60,4 @@
 
 * __SEO__，已装`Jetpack`，`Yoast SEO`插件并使用，根据SEO改进提示，给文章均增加关键词。排除SEO问题。
 
-	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/SEO%E9%97%AE%E9%A2%98.png" alt="SEO问题" width="40%" height="40%">
+	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/SEO%E9%97%AE%E9%A2%98.png" alt="SEO问题" width="40%" height="40%"><img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/Jetpack%E7%BB%9F%E8%AE%A1.PNG" alt="Jepack流量" width="50%" height="50%">
