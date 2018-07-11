@@ -4,7 +4,7 @@
 ------
 ## 一、策划
 ### 产品文档丶思维导图与网站地图
-* [产品文档](https://github.com/Tumaorou/personal_website/blob/master/file/%E6%96%87%E4%BC%A0%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E7%BD%91%E9%A1%B5%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3.docx)
+* __[产品文档](https://github.com/Tumaorou/personal_website/blob/master/file/%E6%96%87%E4%BC%A0%E7%94%A8%E6%88%B7%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E7%BD%91%E9%A1%B5%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3.docx)__
 * 思维导图
 
 	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/思维导图.png" alt="思维导图" width="40%" height="40%">
@@ -29,7 +29,7 @@
   
 ### 3、Wordpress平面设计
 * 图库与配色
-  * [图片来源表格](https://github.com/Tumaorou/personal_website/blob/master/file/%E5%9B%BE%E7%89%87%E6%9D%A5%E6%BA%90.md)。网站中出现的图片来源分两类，一是出自转载的网络文章，这一类图片均已在所属文章底部标识来源。二是来源于网站[pixabay](https://pixabay.com/)有CC0标识的图片。本网站从建设初就严格把控图片来源，需要署名的均已署名。
+  * __[图片来源表格](https://github.com/Tumaorou/personal_website/blob/master/file/%E5%9B%BE%E7%89%87%E6%9D%A5%E6%BA%90.md)__。网站中出现的图片来源分两类，一是出自转载的网络文章，这一类图片均已在所属文章底部标识来源。二是来源于网站[pixabay](https://pixabay.com/)有CC0标识的图片。本网站从建设初就严格把控图片来源，需要署名的均已署名。
   * 网站配色采用简朴偏严肃的风格，网站配色在色轮上采取相近颜色，目的是于网站研究的主题契合。做过用户访谈得出的结果。
 * 字型丶字体大小与排版
   * 字型标题h?统一采用微软雅黑（非衬线体），正文p采用宋体（衬线体）。标题字号大于正文，面包屑导航最后一栏略微放大加粗。排版上加粗，换行等参考网上的文章排版。
