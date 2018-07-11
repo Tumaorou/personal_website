@@ -25,7 +25,7 @@
 * 小工具
   * `Site Origin`。首页使用`Site Origin`布局
 
-	<img src="https://github.com/Tumaorou/personal_website/blob/master/picture/SiteOrigin%E5%B1%95%E7%A4%BA.gif" alt="SiteOrigin展示" width="50%" height="50%"></img>
+	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/SiteOrigin%E5%B1%95%E7%A4%BA.gif" alt="SiteOrigin展示" width="50%" height="50%"></img>
   
 ### 3、Wordpress平面设计
 * 图库与配色
@@ -40,7 +40,7 @@
 * 已开启多站点，https://reganmian.me/site2/
 * 在效能测试网站http://ping.chinaz.com/ 进行测试，共在全世界测试149个节点，因为服务器架在国外，所以国内的ping值普遍比国外低
 
-	<img src="https://github.com/Tumaorou/personal_website/blob/master/picture/ping%E5%80%BC.png" alt="ping值测试部分结果" width="50%" height="50%"></img>
+	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/ping%E5%80%BC.png" alt="ping值测试部分结果" width="50%" height="50%"></img>
 
 ### 2、用研
 * [用户访谈](https://github.com/Tumaorou/personal_website/blob/master/file/%E7%94%A8%E6%88%B7%E8%AE%BF%E8%B0%88.md)
@@ -57,4 +57,4 @@
 
 * 已装`Jetpack`，`Yoast`插件并使用，根据SEO改进提示，给文章均增加关键词。排除SEO问题。
 
-	<img src="https://github.com/Tumaorou/personal_website/blob/master/picture/SEO%E9%97%AE%E9%A2%98.png" alt="SEO问题" width="40%" height="40%"></img>
+	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/SEO%E9%97%AE%E9%A2%98.png" alt="SEO问题" width="40%" height="40%"></img>
