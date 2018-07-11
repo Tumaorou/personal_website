@@ -47,6 +47,12 @@
 * [焦点小组](https://github.com/Tumaorou/personal_website/blob/master/file/%E7%84%A6%E7%82%B9%E5%B0%8F%E7%BB%84.md)
 * 结合两项用户研究，通过用户访谈2位新闻学专业同学，本网站将主题由“Best Food”改为“Pacify”，将搜索框放入侧边栏。通过焦点小组结合另外3位站长的建议，网站增加了面包屑导航，将行间距调整至合适宽度等。总体加强了网站的可读性。
 ### 3、站长工具
-* [百度站长工具](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E7%99%BE%E5%BA%A6%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.PNG)，从6月20日提交站点。进行提交关键词，提交链接等，在[百度搜索](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E8%AF%8D%E6%9D%A1.PNG)“文传用户研究中心”结果中排行第一
-* [必应站长工具](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E5%BF%85%E5%BA%94%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.PNG)，从6月25日提交站点。进行提交关键词，提交链接等，在[必应搜索](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2%E8%AF%8D%E6%9D%A1.PNG)“文传用户研究中心”结果中前四均是本网站
-* 已装`Jetpack`，`Yoast`插件并使用，文章均设置了SEO关键词
+* [百度站长工具](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E7%99%BE%E5%BA%A6%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.PNG)，从6月20日提交站点。进行提交关键词，提交链接等，为了使搜索引擎排名靠前，特意将网站大标题加上"文传"两字，使搜索引擎更容易找到。在百度搜索“文传用户研究中心”结果中排行第一
+
+	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E8%AF%8D%E6%9D%A1.PNG" alt="百度搜索" width="50%" height="50%"></img>
+
+* [必应站长工具](https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E5%BF%85%E5%BA%94%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7.PNG)，从6月25日提交站点。进行提交关键词，提交链接等，在必应搜索“文传用户研究中心”结果中前四均是本网站
+
+	<img src="https://raw.githubusercontent.com/Tumaorou/personal_website/master/picture/%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2%E8%AF%8D%E6%9D%A1.PNG" alt="必应搜索" width="50%" height="50%"></img>
+
+* 已装`Jetpack`，`Yoast`插件并使用，根据SEO改进提示，给文章均增加关键词
